@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+/* General app design */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Sans Pro', sans-serif!important;
+    font-weight: 600!important;
+}
+
+h1 {
+    font-size: 2.5em!important
+}
+
+h2 {
+    font-size: 2.2em!important
+}
+
+h4 {
+    font-size: 1.8em!important
+}
+
+h5 {
+    font-size: 1.5em!important
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif!important;
+}
+
+button {
+    font-family: 'Source Sans Pro', sans-serif!important;
+    font-weight: 600!important;
+}
+
+button:hover {
+    color: #c8c9eb;
+}
+
+img {
+    cursor: pointer;
+}
+
+/* Design tables to color rows grey on hover */
+Table {
+    border-spacing: 0;
+}
+
+Table tbody tr:hover {
+    background-color: #fbfbfb;
+    cursor: pointer;
+}
+Table tbody td {
+    border-left: none;
+    border-right: none;
+}
+
+/* Modify rowC objects to align contents next to each other */
+.rowC{
+    display:flex;
+    flex-direction:row;
+}
+
+/* Design add button for tables */
+.addButton {
+    margin: 0;
+}
+
+.shadowBox {
+    background-color: aquamarine;
+} 

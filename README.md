@@ -1,10 +1,4 @@
 ## Inspectra
-### Setup
-- Have E-Mail Postfach & Phone ready
-- Have the E-Mail and Phone Number of all Team Members ready
-- Open Inspectra
-- Have the provided Login
-- All Scraping URLs
 
 ### User
 - Username: `seba`
